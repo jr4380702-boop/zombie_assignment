@@ -1,0 +1,1 @@
+The program has a main function which is what runs all the nested functions so the user can actually use it

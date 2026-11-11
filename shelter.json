@@ -1,0 +1,9 @@
+{ 
+    "shelter_name": "Last Hope", 
+    "leader": "Alex", 
+    "survivors": 8, 
+    "food": 40, 
+    "water": 30, 
+    "barricade_health": 75, 
+    "radio_working": true 
+} 
